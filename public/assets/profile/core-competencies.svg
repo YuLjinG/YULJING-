@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 783 673.74">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.49em;
+      }
+
+      .cls-3 {
+        fill: #f2f2f2;
+        font-family: SourceHanSansCN-Regular-GBpc-EUC-H, 'Source Han Sans CN';
+        font-size: 32px;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1-2" data-name="图层 1">
+    <g>
+      <path d="m783,182v-50c0-9.94-8.06-18-18-18H213.34c-9.94,0-18-8.06-18-18v-1.9c0-9.94,8.06-18,18-18h282.66c9.94,0,18-8.06,18-18V18c0-9.94-8.06-18-18-18H18C8.06,0,0,8.06,0,18v106c0,9.94,8.06,18,18,18h149c9.94,0,18,8.06,18,18h0c0,9.94-8.06,18-18,18H35c-9.94,0-18,8.06-18,18v147c0,9.94,8.06,18,18,18h212c9.94,0,18,8.06,18,18v29c0,9.94-8.06,18-18,18H67c-9.94,0-18,8.06-18,18v141c0,9.94,8.06,18,18,18h205c9.94,0,18,8.06,18,18v32c0,9.94,8.06,18,18,18h454c9.94,0,18-8.06,18-18v-50c0-9.94-8.06-18-18-18h-344c-9.94,0-18-8.06-18-18v-27c0-9.94-8.06-18-18-18h-77c-9.94,0-18-8.06-18-18v-31c0-9.94,8.06-18,18-18h268c9.94,0,18-8.06,18-18v-89c0-9.94-8.06-18-18-18h-265c-9.94,0-18-8.06-18-18v-48c0-9.94-8.06-18-18-18h-41c-9.94,0-18-8.06-18-18v-10c0-9.94,8.06-18,18-18h534c9.94,0,18-8.06,18-18Z"/>
+      <text class="cls-3" transform="translate(205.62 169.2)"><tspan x="0" y="0">产品卖点提</tspan><tspan class="cls-1" x="160" y="0">炼</tspan><tspan class="cls-2" x="191.71" y="0">、</tspan><tspan x="208" y="0">用户需求与使用场景拆解</tspan></text>
+      <text class="cls-3" transform="translate(289.62 381.2)"><tspan x="0" y="0">品牌视</tspan><tspan class="cls-1" x="96" y="0">觉</tspan><tspan class="cls-2" x="127.71" y="0">、</tspan><tspan x="144" y="0">内容调性</tspan><tspan x="0" y="45">与素材一致性把控</tspan></text>
+      <text class="cls-3" transform="translate(327 640.2)"><tspan x="0" y="0">产品拍摄素材整理与视觉优化</tspan></text>
+      <text class="cls-3" transform="translate(28.62 47.2)"><tspan x="0" y="0">商品主</tspan><tspan class="cls-1" x="96" y="0">图</tspan><tspan class="cls-2" x="127.71" y="0">、</tspan><tspan x="144" y="0">详情</tspan><tspan class="cls-1" x="208" y="0">页</tspan><tspan class="cls-2" x="239.71" y="0">、</tspan><tspan x="256" y="0">活动页与店铺</tspan><tspan x="0" y="45">视觉设计</tspan></text>
+      <text class="cls-3" transform="translate(45.62 235.2)"><tspan x="0" y="0">商品图</tspan><tspan class="cls-1" x="96" y="0">文</tspan><tspan class="cls-2" x="127.71" y="0">、</tspan><tspan x="0" y="45">短视频脚</tspan><tspan class="cls-1" x="128" y="45">本</tspan><tspan class="cls-2" x="159.71" y="45">、</tspan><tspan x="0" y="90">分镜与内容提案</tspan></text>
+      <text class="cls-3" transform="translate(73.62 481.2)"><tspan x="0" y="0">AI 辅助图</tspan><tspan class="cls-1" x="131.97" y="0">像</tspan><tspan class="cls-2" x="163.68" y="0">、</tspan><tspan x="0" y="45">脚</tspan><tspan class="cls-1" x="32" y="45">本</tspan><tspan class="cls-2" x="63.71" y="45">、</tspan><tspan x="0" y="90">分镜和内容素材生产</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+.text-type { display:inline; }
+.text-type__content { white-space:pre-line; }
+.text-type__cursor { display:inline-block; margin-left:.08em; opacity:1; }
+.text-type__cursor--hidden { opacity:0 !important; }
+
+@media (prefers-reduced-motion: reduce) {
+  .text-type__cursor { animation:none; }
+}
